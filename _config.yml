@@ -24,6 +24,11 @@ languages:
 #
 # That's enough for the Quick Start! The remaining settings can be configured later.
 
+#Custom settings
+accessible_charts: true
+
+accessible_tabs: true
+
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
 # Recommended: set this to a particular "release" of Open SDG. For example:
 #remote_theme: open-sdg/open-sdg@1.1.0
