@@ -26,7 +26,6 @@ languages:
 
 #Custom settings
 accessible_charts: true
-
 accessible_tabs: true
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
