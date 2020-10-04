@@ -24,7 +24,7 @@ languages:
 #
 # That's enough for the Quick Start! The remaining settings can be configured later.
 
-#Custom settings
+#Custom settings here
 accessible_charts: true
 accessible_tabs: true
 
